@@ -12,8 +12,9 @@ De belangrijke commands voor de TTT verzameling
 - !menu
 
 
-Commands voor de server Host
+//Commands voor de server Host//
 
+**Aantal detectives + traitors
 - ttt_traitor_pct 0.2
 - ttt_detective_pct 0.2
 - ttt_roundrestart
@@ -24,12 +25,14 @@ Commands voor de server Host
 - ttt_sprint_regenerate_traitor 0.12
 - ttt_sprint_consume
 
-Voor defibrilator
+*Extra rollen
+
+**Voor defibrilator
 - ttt_defib_successpct 100
 - ttt_defib_chargetime 10
 - ttt_defib_maxdist -
 
-Voor Thomas The Tank Engine
+**Voor Thomas The Tank Engine
 - ttt_thomas_det_stop 1
 - ttt_thomas_det_stop_say 1
 - ttt_thomas_det_survive 1
@@ -38,6 +41,6 @@ Voor Thomas The Tank Engine
 - ttt_thomas_explode_magnitude 256
 - ttt_thomas_explode_radius 512
 
-Voor Map Vote
+**Voor Map Vote
 - pam_toggle_menu
 - pam_extension_manager
