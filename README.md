@@ -22,8 +22,8 @@ De belangrijke commands voor de TTT verzameling
 - ttt_detective_search_only 1
 - ttt_shop_for_all 0
 - ttt_sprint_regenerate_innocent 0.08
-- ttt_sprint_regenerate_traitor 0.12
-- ttt_sprint_consume
+- ttt_sprint_regenerate_traitor 0.08
+- ttt_sprint_consume 0.0
 
 *Extra rollen**
 - Zie: https://github.com/NoxxFlame/TTT-Custom-Roles/blob/release/CONVARS.md 
@@ -31,7 +31,7 @@ De belangrijke commands voor de TTT verzameling
 *Voor defibrilator*
 - ttt_defib_successpct 100
 - ttt_defib_chargetime 10
-- ttt_defib_maxdist -5
+- ttt_defib_maxdist 5
 
 *Voor Thomas The Tank Engine*
 - ttt_thomas_det_stop 1
@@ -45,3 +45,25 @@ De belangrijke commands voor de TTT verzameling
 *Voor Map Vote*
 - pam_toggle_menu
 - pam_extension_manager
+
+  *Voor Randomat 2.0.* 
+ttt_randomat_communist - Enable or disable the event (def 1).
+
+ttt_randomat_defaultskin - Enable or disable the event (def 1).
+randomat_defaultskin_min - Min time before the players are disguised as the default phoenix skin (def 1).
+randomat_defaultskin_disguise - Should we disguise the players names (def 1).
+
+ttt_randomat_modelswap - Enable or disable the event (def 1).
+randomat_modelswap_min - Minimum time before the playermodel swap runs (def 15).
+randomat_modelswap_max - Maximum time before the playermodel swap runs (def 30).
+randomat_modelswap_repetition - Should we stop the playermodel repeating (def 1).
+randomat_modelswap_disguised - Should we disguise the player names (def 1).
+
+ttt_randomat_randomsize - Enable or disable the event (def 1).
+randomat_randomsize_min - Minimum size as a % to allow playermodels to become (def 50).
+randomat_randomsize_max - Maximum size as a % to allow playermodels to become (def 250).
+
+ttt_randomat_roleroulette - Enable or disable the event (def 1).
+randomat_roleroulette_min - Minimum time between role roulette runs (def 15).
+randomat_roleroulette_max - Maximum time between role roulette runs (def 30).
+randomat_roleroulette_repetition - Should we stop the role roulette repeating (def 0).
