@@ -1,7 +1,9 @@
 # TTT-command-lijst
+
 De belangrijke commands voor de TTT verzameling
 
-Commands voor de cliënts 
+
+//Commands voor de cliënts// 
 
 - bind M playermodel_selector
 - bind b ttt_act
