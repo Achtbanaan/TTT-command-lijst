@@ -3,7 +3,7 @@
 De belangrijke commands voor de TTT verzameling
 
 
-//Commands voor de cliënts// 
+// Commands voor de cliënts// 
 
 - bind M playermodel_selector
 - bind b ttt_act
@@ -26,7 +26,7 @@ De belangrijke commands voor de TTT verzameling
 - ttt_sprint_consume
 
 *Extra rollen**
-Zie: https://github.com/NoxxFlame/TTT-Custom-Roles/blob/release/CONVARS.md 
+- Zie: https://github.com/NoxxFlame/TTT-Custom-Roles/blob/release/CONVARS.md 
 
 *Voor defibrilator*
 - ttt_defib_successpct 100
